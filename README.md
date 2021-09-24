@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PoroGeek
-- 👀 I’m interested in python and Web Developer
+- 👀 I’m interested in Python and Web Developer
 - 🌱 I’m currently learning Python, angular JS and Data Science
 - 💞️ I’m working in my own company
 
